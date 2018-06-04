@@ -1,2 +1,3 @@
 # Hello-world-yuval
 learning how to work in GitHub
+I'm just curious about how this thing works... 
